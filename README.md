@@ -1,0 +1,2 @@
+# NT_20261_InventarioApp_NuevasTecnologias
+NuevasTecnologias
