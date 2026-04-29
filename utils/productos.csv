@@ -1,0 +1,6 @@
+id_producto,nombre,categoria,stock,precio_unitario
+1,Teclado,PERIFERICO,10,25000
+2,Mouse,PERIFERICO,5,15000
+3,Monitor,MONITOR,5,350000
+4,CPU,COMPONENTE,8,450000
+5,Memoria RAM,COMPONENTE,15,80000
